@@ -1,5 +1,5 @@
 {
-  "name": "youtube-hls-m3u8",
+  "name": "ythls",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abskmj/youtube-hls-m3u8.git"
+    "url": "git+https://github.com/anzmedia/ythls.git"
   },
-  "author": "",
+  "author": "anzmedia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abskmj/youtube-hls-m3u8/issues"
+    "url": "https://github.com/anzmedia/ythls/issues"
   },
-  "homepage": "https://github.com/abskmj/youtube-hls-m3u8#readme",
+  "homepage": "https://github.com/anzmedia/ythls#readme",
   "devDependencies": {
     "nodemon": "^2.0.20",
     "standard": "^17.0.0"
