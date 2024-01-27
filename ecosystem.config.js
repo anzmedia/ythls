@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'ythls',
+    name: 'anzmedia',
     script: 'npm',
     args: 'start'
   }]
